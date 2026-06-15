@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Último vals que bailamos juntos
+
+This log tracks the cryptographic history and versioning for the song **Último vals que bailamos juntos** (ultimo-vals-que-bailamos-juntos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:54:41.753996 | `v1` | `dc6cd4bdd38cfdc2586859909133e11975df6a9553df565f98cc90be2d1145ad` | `7ba3358aca3f1576008c1422d0945b29c036ca93a4636b1fd72123aec5f2517c` | `2026-06-15_ultimo-vals-que-bailamos-juntos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
