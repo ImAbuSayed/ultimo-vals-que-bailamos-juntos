@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ultimo-vals-que-bailamos-juntos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Último vals que bailamos juntos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ultimo-vals-que-bailamos-juntos/) |
+| **Get License** | [Official Music Licensing for Último vals que bailamos juntos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ultimo-vals-que-bailamos-juntos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, dímelo si nos vamos a lo profundo
+> Que tú y yo brillamos más que todo el mundo
+> Es el último vals que bailamos juntos
+> No quiero perder ni un solo segundo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
